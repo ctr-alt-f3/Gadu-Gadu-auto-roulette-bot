@@ -12,3 +12,5 @@ You also want to install:
 - pyautogui
 - pyperclip
 - pynput
+
+Requires google chrome/firefox/any browser that supports ctrl+tab keybind
