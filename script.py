@@ -30,8 +30,7 @@ while True:
             sleep(1)
             hide()
             pyautogui.click(losuj_dalej)
-            
-            # pyautogui.click(643, 207,button="right")
+       
             
 
             
@@ -45,6 +44,7 @@ while True:
     except:
         pass
     pyautogui.hotkey('ctrl', 'tab')
+
 
 
 
