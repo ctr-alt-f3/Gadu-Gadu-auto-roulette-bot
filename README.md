@@ -3,7 +3,7 @@ simple script that automatically roulettes in any number of opened tabs on GG ap
 
 
 # Quick start
-change values in "schowaj" functions, as they are dependant on monitor and browser u are using. 
+change values in "hide" functions, as they are dependant on monitor and browser u are using. 
 You also have to install:
 - pyautogui
 - pyperclip
