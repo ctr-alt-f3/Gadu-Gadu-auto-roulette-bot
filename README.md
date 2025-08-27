@@ -3,7 +3,9 @@ simple script that automatically roulettes in any number of opened tabs on GG ap
 
 
 # Quick start
-change values in "hide" functions, as they are dependant on monitor and browser u are using. 
+change values in "hide" functions, as they are dependant on monitor and browser u are using.
+- change (1421, 469) (cords in 17-th line) to position, where nickname of a person appears
+- change (1599, 652) (cords in 18-th line) to position, where "copy to clipboard" appears)
 You also have to install:
 - pyautogui
 - pyperclip
